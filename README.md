@@ -66,6 +66,24 @@ http://localhost:8080
 
 ---
 
+## API Documentation (Postman)
+
+You can explore and test the backend API using the Postman documentation:
+
+👉 :
+https://documenter.getpostman.com/view/41126830/2sBXqCR4uH
+
+### What’s included:
+
+- Available API endpoints  
+- Request & response examples  
+- Input format for ingredients  
+- AI recipe generation flow  
+
+⚠️ Note: Since the project runs locally, make sure the backend is running before testing the endpoints.
+
+---
+
 ## 🌐 Frontend
 
 ### Description / Beskrivning
